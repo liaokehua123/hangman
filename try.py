@@ -1,5 +1,5 @@
 class Lkh():
-    def__init__(self,l,w):
+    def __init__(self,l,w):
         self.width = w;
         self.len = l;
     def print(self):
