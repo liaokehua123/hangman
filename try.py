@@ -4,5 +4,5 @@ class Lkh():
         self.len = l;
     def print(self):
         print("""{} love {}""".format(self.width,self.len));
-who = Lkh(5,6)
+who = Lkh(10,11)
 print(who.print())
